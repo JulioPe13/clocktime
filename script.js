@@ -48,8 +48,8 @@ setInterval(actualizarHora, 1000);
 
 
 
-function imgactualizar(){
-let body = document.querySelector("body");
+const imgactualizar =() => {
+const body = document.querySelector("body");
 let fechaActual = new Date();
 let horaactual = fechaActual.getHours();
 
@@ -57,7 +57,7 @@ if (horaactual >= 19 || horaactual < 6){
     body.style.backgroundImage = "url('https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/panama/Panama_Ciudad_0218_c9f9fbc0-60b3-439b-b75a-1a0c87f76622.jpg')"
 }else{
     body.style.backgroundImage ="url('https://www.repsol.com/content/dam/repsol-corporate/es/sostenibilidad/naturaleza%20bosque%20y%20lago.jpg.transform/rp-rendition-md/image.jpg')"
-}
+};
 
 // DETERMINAR pm / am
 
