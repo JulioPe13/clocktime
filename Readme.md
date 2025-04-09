@@ -2,14 +2,16 @@
 👨‍💻ClockTime es un reloj digital minimalista y elegante, diseñado para ofrecer la hora actual de forma clara y visualmente atractiva. Con un diseño moderno y adaptable, es perfecto para usar como página de inicio, screensaver o simplemente para mantener un vistazo rápido a la hora mientras trabajas.✔💯
 
 Características principales:
-✔️ Interfaz limpia y legible con tipografía moderna.
-✔️ Modo oscuro/claro para adaptarse a tus preferencias.
-✔️ Diseño responsivo que funciona en cualquier dispositivo.
-✔️ Actualización en tiempo real (hora, minutos y segundos).
+✔️ Interfaz limpia y legible con tipografía moderna.<br>
+✔️ Modo oscuro/claro para adaptarse a tus preferencias.<br>
+✔️ Diseño responsivo que funciona en cualquier dispositivo.<br>
+✔️ Actualización en tiempo real (hora, minutos y segundos).<br>
 
 
 
-Tecnologias usadas 
-Html
-Css
+👨‍💻Tecnologias usadas<br>
+Html<br>
+Css<br>
 Javascript (vanilla)
+
+
