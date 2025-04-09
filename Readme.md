@@ -1,5 +1,2 @@
 ![image](https://github.com/user-attachments/assets/ce5571d3-0296-4dbc-9ffe-e44e2baadbbc)
-
-    Reloj dinamico Permite la actualizacion de Hora
-    Actualizando los segundos, Tambien muestra el mes actual
-    NOTA: El contenido es automatico
+👨‍💻ClockTime es un reloj digital minimalista y elegante, diseñado para ofrecer la hora actual de forma clara y visualmente atractiva. Con un diseño moderno y adaptable, es perfecto para usar como página de inicio, screensaver o simplemente para mantener un vistazo rápido a la hora mientras trabajas.✔💯
