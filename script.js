@@ -62,7 +62,7 @@ if (horaactual >= 19 || horaactual < 6){
 // DETERMINAR pm / am
 
 
-if(horaactual >=12 && horaactual < 23){
+if(horaactual >=12 || horaactual < 23){
     ampm.textContent ='pm'
 }else{
    ampm.textContent = 'am'    
