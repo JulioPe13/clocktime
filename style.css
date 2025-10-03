@@ -27,7 +27,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 100px;
+    gap: 5rem;
 
 }
 
@@ -52,4 +52,10 @@ p {
     font-size: 1.5rem;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
+}
+
+
+.text-min{
+    font-size: 2rem;
+    margin-top: 2rem;
 }

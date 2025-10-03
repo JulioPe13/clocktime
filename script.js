@@ -49,6 +49,7 @@ const imgactualizar = () => {
   let horaactual = fechaActual.getHours();
   let minutosActual = fechaActual.getMinutes();
 
+  
 
   //Intervalo Horario
   if (horaactual >= 19 || horaactual < 6) {
